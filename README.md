@@ -23,12 +23,12 @@ We used scored crops dataset(GAICD, CPC) as test dataset and calculate the accur
 + Unsplash [[Github](https://github.com/unsplash/datasets)]
 
 # Usage
-```bash
-pip install -r requirements.txt
-```
 ``` bash
 git clone https://github.com/PROLCY/CSNet-Pytorch.git
 cd CSNet-Pytorch && mkdir weight
+```
+```bash
+pip install -r requirements.txt
 ```
 ## Demo
 Download pretrained model in the directory ``weight``
