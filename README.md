@@ -1,5 +1,5 @@
 # CSNet-Pytorch
-This is an unofficial Pytorch implementation of **Composition Scoring Model** in [Camera View Adjustment Prediction for Improving Image Composition](https://arxiv.org/abs/2104.07608).
+This is an unofficial Pytorch implementation of **Composition Scoring Model** in [Camera View Adjustment Prediction for Improving Image Composition(2021)](https://arxiv.org/abs/2104.07608).
 
 # Composition Scoring Model
 Composition Scoring Model, which we named as **CSNet**, predicts image composition score(0 ~ 1).
